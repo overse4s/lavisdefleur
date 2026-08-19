@@ -145,6 +145,7 @@ img{display:block;max-width:100%}
 .sticker-dots i{width:5px;height:5px;border-radius:50%;background:#d6cece;display:block}
 .sticker-dots i.active{background:#806273}
 .swipe-hint{font-family:var(--mono);font-size:8px;color:#999191}
+.stickers-link{margin-top:24px}
 
 .price-list{border-top:1px solid var(--line)}
 .price-list details{border-bottom:1px solid var(--line);padding:20px 0}
