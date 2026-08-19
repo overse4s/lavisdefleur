@@ -161,7 +161,7 @@ img{display:block;max-width:100%}
 .payment-note{font-size:9px;line-height:1.7;color:#9a9292;max-width:700px;margin-top:22px}
 
 footer{max-width:1180px;margin:0 auto;padding:30px 7vw 50px;display:flex;justify-content:space-between;gap:20px;font-family:var(--mono);font-size:8px;color:#928b8b}
-.footer-link{margin-left:10px;transition:color .2s ease}
+.footer-link{transition:color .2s ease}
 .footer-link:hover{color:var(--plum)}
 
 @media (max-width:800px){
